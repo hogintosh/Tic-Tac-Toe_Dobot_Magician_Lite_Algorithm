@@ -2,3 +2,5 @@
 This python code uses a webcam and Dobot Magician Lite to play Tic-Tac-Toe with a human with a Sharpie End Effector. It utilizes a YOLO model and OpenCV2 to detect and update the game state. Hope you find this cool or useful in someway...I know it hasn't for me
 
 Also the minimax function is not currently working as intended.
+
+The Robot code will work enough to play tic-tac-toe with you.
