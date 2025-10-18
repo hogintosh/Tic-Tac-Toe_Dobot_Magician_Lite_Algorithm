@@ -10,7 +10,7 @@ from pydobot.dobot import MODE_PTP
 gCenter = [255, 0]
 cameraLocation = [200, 0, 70] ## location of where the camera takes a picture
 dz = -13 #delta Z for offsetting the height of the pen
-gWidth = 20
+gWidth = 20 # adjust for the size of your desired grid
 gHeight = (gWidth*3)//2 
 block1 = [gCenter[0]-gWidth, gCenter[1]-gWidth]
 block2 = [gCenter[0]-gWidth, gCenter[1]]
