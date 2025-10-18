@@ -4,7 +4,7 @@ import time
 import threading
 import pydobot
 from serial.tools import list_ports
-from MidtermFunctions import *
+from Functions import *
 
 # ---------------- Dobot Setup and Connection ----------------
 available_ports = list_ports.comports()
