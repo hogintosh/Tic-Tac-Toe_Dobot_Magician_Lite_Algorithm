@@ -35,7 +35,7 @@ cellPosition = {
 
 regionOfInterest = None
 confidenceValue = 0.8
-model = YOLO("best.pt")
+model = YOLO("XandOWieghts.pt")
 
 # ---------------- Game Logic ----------------
 def checkWinner(board):
