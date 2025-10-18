@@ -4,3 +4,4 @@ This python code uses a webcam and Dobot Magician Lite to play Tic-Tac-Toe with 
 Also the minimax function is not currently working as intended.
 
 The Robot code will work enough to play tic-tac-toe with you.
+[midterm1.pdf](https://github.com/user-attachments/files/22982152/midterm1.pdf)
